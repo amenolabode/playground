@@ -12,13 +12,14 @@ module.exports = {
         purpleBg: "#F6EFFF",
         blue: "#15A3EF",
         blueBg: "#EAF7FE",
-        primaryWhiteText: "#E1E0E3",
+        primaryWhiteText: "#C7C7C7",
         primaryBlackText: "#1C1C1C",
         secondaryBlackText: "#1B1B1B",
         yellow: "#F4D35E",
         red: "#DF2935",
         redBg: "#FFEAEB",
-        green: "#06D6A0",
+        greenText: "#00FF6A",
+        greenBg: "#122E27"
       },
       // fontFamily: {
       //   satoshi: ['Satoshi', 'sans'],
